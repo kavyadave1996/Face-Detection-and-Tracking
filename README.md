@@ -1,5 +1,5 @@
-# Kavya-Dave
-Face Detection and Tracking In Real Time Video Stream
+# Face Detection and Tracking In Real Time Video Stream
+
 
 Now a days, Surveillance Cameras are used everywhere from home to public and
 commercial places mainly for purposes like security and monitoring. This project is an
